@@ -21,12 +21,25 @@ Link para o grupo: [WhatsApp Group](https://chat.whatsapp.com/HFg61hBjbzA1dIt2KO
 | Antonio Neto      | [Perfil](https://public.tableau.com/app/profile/amfneto/vizzes)       |
 | Danilo Caetano    | [Perfil](https://public.tableau.com/app/profile/danilo.caetano/vizzes)|
 | Marília           | [Perfil](https://public.tableau.com/app/profile/mar.lia8029/vizzes)   |
+| Diego Pereira     | [Perfil](https://public.tableau.com/app/profile/diego.pereira.de.lima/vizzes) |
 
 </details>
 
 ## Desafio de Visualização Mensal
 
 Estamos lançando um desafio de visualização mensal para estimular a criatividade e o desenvolvimento de portfólios no Tableau. Cada mês, um membro do grupo lançará um desafio, e os participantes devem enviar suas visualizações até o final do mês através de um PR (Pull Request) no repositório do grupo. A banca avaliadora irá revisar as submissões e selecionar as melhores visualizações.
+
+### Desafio de Julho
+
+O primeiro desafio começará no mês de julho e tem como tema "Churn". Os participantes podem ficar à vontade para escolher o data set que desejarem. Abaixo estão alguns sites onde podem encontrar data sets:
+
+- [Kaggle](https://www.kaggle.com/)
+- [Data.gov](https://www.data.gov/)
+- [Google Dataset Search](https://datasetsearch.research.google.com/)
+- [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
+
+A submissão deve ser feita na pasta "desafio julho" no repositório do grupo.
+![](https://i.imgur.com/kWy6gZH.png)
 
 ### Como Participar
 
@@ -68,12 +81,26 @@ Link to the group: [WhatsApp Group](https://chat.whatsapp.com/HFg61hBjbzA1dIt2KO
 | Antonio Neto      | [Profile](https://public.tableau.com/app/profile/amfneto/vizzes)      |
 | Danilo Caetano    | [Profile](https://public.tableau.com/app/profile/danilo.caetano/vizzes)|
 | Marília           | [Profile](https://public.tableau.com/app/profile/mar.lia8029/vizzes)  |
+| Diego Pereira     | [Profile](https://public.tableau.com/app/profile/diego.pereira.de.lima/vizzes) |
 
 </details>
 
 ## Monthly Visualization Challenge
 
 We are launching a monthly visualization challenge to stimulate creativity and portfolio development in Tableau. Each month, a group member will launch a challenge, and participants must submit their visualizations by the end of the month through a PR (Pull Request) in the group repository. The judging panel will review the submissions and select the best visualizations.
+
+### July Challenge
+
+The first challenge will start in July and has the theme of "Churn". Participants are free to choose their own data sets. Below are some sites where data sets can be found:
+
+![](https://i.imgur.com/kWy6gZH.png)
+
+- [Kaggle](https://www.kaggle.com/)
+- [Data.gov](https://www.data.gov/)
+- [Google Dataset Search](https://datasetsearch.research.google.com/)
+- [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
+
+Submissions should be made in the "desafio julho" folder in the group repository.
 
 ### How to Participate
 
